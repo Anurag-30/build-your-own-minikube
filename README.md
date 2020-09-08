@@ -33,8 +33,6 @@ sudo yum install docker -y
 sudo yum install kubelet kubectl -y
 ```
 
-This creates a VM in Virtualbox with necessary tools installed (kubelet & kubectl). Checkout the shell provisioner for more information.
-
 **2. Run Kubelet**
 
 ```bash
