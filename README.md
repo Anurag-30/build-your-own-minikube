@@ -41,6 +41,8 @@ $ sudo su -
 
 $ systemctl start docker
 
+$ git clone https://github.com/Anurag-30/build-your-own-minikube.git
+
 $ mkdir manifests
 
 ## Run Kubelet pointing to manifests
